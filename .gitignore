@@ -1,0 +1,5 @@
+# Presentation-only repository: deny every file except the reviewed documents.
+*
+!.gitignore
+!README.md
+!README.en.md
