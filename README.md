@@ -6,7 +6,7 @@
 
 MİHENK; fiyat geçmişi, teknik göstergeler, finansal tablolar, haberler ve kişisel araştırma kayıtlarını tek çalışma alanında buluşturan, geliştirilmekte olan bir projedir. Tasarımın temel amacı, bir verinin kaynağını ve zamanını görünür tutarak araştırmayı kolaylaştırmaktır.
 
-Bu depo, projenin CV ve portföy tanıtımıdır. Uygulamanın kaynak kodu, çalıştırılabilir paketi, erişim bilgileri ve kişisel kayıtları paylaşılmaz. Halka açık bir uygulama veya demo bağlantısı bulunmaz.
+Bu depo, projenin portföy tanıtımıdır. Uygulamanın kaynak kodu, çalıştırılabilir paketi, erişim bilgileri ve kişisel kayıtları paylaşılmaz. Halka açık bir uygulama veya demo bağlantısı bulunmaz.
 
 ## Uygulanan özellikler
 
